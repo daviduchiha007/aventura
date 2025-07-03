@@ -14,3 +14,17 @@ button{
     color:white;
     font-family: "bai jamjuree",sans-serif;
 }
+
+.passo{
+    display: none;
+}
+.passo{
+    display: block;
+}
+main{
+    text-align: center;
+    max-width: 90%;
+}
+img{
+    max-width: 90%;
+}
